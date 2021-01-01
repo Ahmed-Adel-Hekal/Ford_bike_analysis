@@ -10,7 +10,7 @@ Some of the questions that would be good to answer are:
 >* Which gender is more likely to ride a bike ? 
 >* which station is more frequent to start the trip from and which is for end of the trip  ?
 >* Is there is a relation between age & gender ?
-
+### You can see the conclusion of a study by opening explanatory.slides.html which is slide summarize study 14
 The Data Structure are as follows:
 Each trip is anonymized and includes:
 
