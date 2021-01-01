@@ -1,6 +1,8 @@
 # FordGoBike
 ### by Ahmed_Adel_Hekal
 
+##### You can see the conclusion of a study by opening explanatory.slides.html which is slide summarize study 14
+
 ### Introduction
  Ford GoBike is a regional public bicycle sharing system in the San Francisco Bay Area, California. Beginning operation in August 29th 2013 as Bay Area Bike Share, the Ford GoBike system currently has over 2,600 bicycles in 262 stations across San Francisco, East Bay and San Jose. From it's early development, many other cities began adopting this system.
  This is the link for the dataset https://s3.amazonaws.com/fordgobike-data/index.html. This data set includes information about individual rides made in a bike-sharing system covering the San Francisco Bay area.
@@ -10,7 +12,7 @@ Some of the questions that would be good to answer are:
 >* Which gender is more likely to ride a bike ? 
 >* which station is more frequent to start the trip from and which is for end of the trip  ?
 >* Is there is a relation between age & gender ?
-### You can see the conclusion of a study by opening explanatory.slides.html which is slide summarize study 14
+
 The Data Structure are as follows:
 Each trip is anonymized and includes:
 
